@@ -1,0 +1,8 @@
+Titanic-Survival-Prediction/
+│
+├── README.md
+├── titanic_survival.py
+├── Titanic_Survival_Analysis.ipynb
+├── requirements.txt
+├── output.csv
+└── titanic_dataset.csv
